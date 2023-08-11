@@ -31,7 +31,7 @@
     "js-beautify": "^1.13.13",
     "jsdom": "^13.1",
     "mocha": "^8.4.0",
-    "release-it": "^14.6.2",
+    "release-it": "^16.1.4",
     "sinon": "^7.3.2"
   }
 }
